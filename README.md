@@ -28,7 +28,7 @@ Abaixo estão listados todos os sistemas e APIs desenvolvidos, com caminhos dire
 * **Conceitos aplicados:** Herança de classes, manipulação de arquivos estruturados (CSV), uso de variáveis de caminho (`@PathVariable`) e filtros de busca com listas.
 
 📂 [Acessar arquivos desta atividade](./Catalogo_De_Personagens)  
-📄 [Ver arquivo de dados desta atividade (personagens_db.csv.txt)](./personagens_db.csv.txt)
+📄 [Ver arquivo de dados desta atividade (personagens_db.csv.txt)](./personagens_db.csv.txtt)
 
 ---
 
